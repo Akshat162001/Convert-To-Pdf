@@ -25,8 +25,17 @@ This project provides a simple online tool to convert Word documents to PDF form
 
 ### Frontend (Vite)
 
-1.Navigate to the frontend folder:
+1. Navigate to the `frontend` folder:
    ```bash
    cd frontend
+2. Install the required dependencies:
+   ```bash
+   npm install
+3. Start Server:
+   ```bash
+   npm run dev
+
+
+T<h3>Frontend will be running at http://localhost:3000 (default port for Vite).</h3>
 
  
