@@ -16,3 +16,17 @@ This project provides a simple online tool to convert Word documents to PDF form
 1. Navigate to the `backend` folder:
    ```bash
    cd backend
+2. Install the required dependencies:
+   ```bash
+   npm install
+3. Start Server:
+   ```bash
+   npm start
+
+### Frontend (Vite)
+
+1.Navigate to the frontend folder:
+   ```bash
+   cd frontend
+
+ 
