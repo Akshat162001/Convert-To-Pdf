@@ -35,6 +35,8 @@ This project provides a simple online tool to convert Word documents to PDF form
    ```bash
    npm run dev
 
-<h4>Frontend will be running at http://localhost:3000 (default port for Vite).</h4>
+<h4>Frontend will be running at http://localhost:3000 (default port for Vite) And Preview will be Look like :</h4>
+<img width="938" alt="photo" src="https://github.com/user-attachments/assets/fff13a69-60bc-4e63-a6e1-5c02c672e203" />
+
 
  
