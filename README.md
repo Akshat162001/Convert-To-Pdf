@@ -14,4 +14,5 @@ This project provides a simple online tool to convert Word documents to PDF form
 ### Backend (Node.js)
 
 1. Navigate to the `backend` folder:
+   ```bash
    cd backend
